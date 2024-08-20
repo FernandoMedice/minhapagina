@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+
+body{
+    font-family: 'Crimson Text', sans-serif;
+}
+
+
+.meucurriculo{
+
+    
+    color: #ffffff;
+    padding-right: 50px;
+    padding-top: 50px;
+    text-align: center;
+
+}
+
+.card{
+    background-color: rgb(130, 174, 255);
+    width: 300px;
+    margin-left: 650px;
+}
+
+.card-img-top{
+    width: 300px;
+}
+
+.tituloconhecimentos{
+
+    letter-spacing: 5px;
+    padding-top: 50px;
+    text-align: center;
+    color: #ffff;
+
+
+}
+
+
+.mensagem{
+    color: #ffffff;
+    padding-top: 50px;
+    text-align: left;
+}
+
+.title .primary{
+
+    font-size: 40px;
+    padding-left: 10px;
+    
+
+}
+
+.title .secondary{
+   font-size: 20px;
+   padding-left: 10px;
+}
+
+.linguagens{
+   
+    color: #ffffff;
+    padding-left: 100px;
+    padding-top: 10px;
+    text-align: justify;
+    margin-left: 200px;
+
+}
+
+.rounded-float-start{
+    width: 300px;
+    height: 250px;
+}
+.html{
+    width: 300px;
+    padding-left: 50px;
+    height: 230px;
+    
+}
+
+.php{
+    width: 300px;
+    padding-left: 50px;
+    height: 230px;
+}
+
+
+.css{
+    width: 300px;
+    padding-left: 50px;
+    height: 230px;
+}
